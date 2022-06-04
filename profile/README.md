@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150" src="./assets/dashibase-logo.png"/>
+<img width="150" src="https://raw.githubusercontent.com/Dashibase/.github/main/profile/assets/dashibase-logo.png"/>
 <h1 align="center"><b>Dashibase</b></h1>
 <p align="center">
   Lightspeed app-builder for Supabase users.
@@ -13,7 +13,7 @@ Need to build an app or a dashboard? Dashibase is the fastest app-builder for Su
 Beautiful presets in light and dark modes. CRUD interfaces with cards and table views. Form validation, elegant login and signup pages, and more. All with a simple JSON config file.
 
 <p align="center">
-  <img src="./assets/dashibase-screenshot.png" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Dashibase/.github/main/profile/assets/dashibase-screenshot.png" style="border-radius: 10px;" />
   <br />
   <br />
   <a href="https://dashibase.com#join-waitlist">
